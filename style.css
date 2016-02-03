@@ -1,24 +1,32 @@
-#titulo { color: #00FFFF; }
-strong { color: #FF0000; }
-span.destacado { color: #FFCC00; }
+body {
+	background-color: blue
+}
 
-#subtitulo { color: #3300FF; }
-a { color: #FF0000; }
-a em { color: #0099CC; font-style: italic; }
-span.especial { color: #990066; }
-
-table, th, td { border: 1px solid black; }
-tr { border: 4px solid black; }
-caption { color: #0033CC; }
-th { color: #FF0000; }
-th.especial { color: #FFCC00; }
-td { color: #00CC00; }
-td strong { color: #FFCC00; }
-
-#adicional { color: #CC9933; }
-#especial { color: #990066; }
-div a { color: #33CC66; }
-
-
-
-
+#sandbox {
+	font-family: "goudy-bookletter-1911-1", "goudy-bookletter-1911-2", "Baskerville", "Georgia", serif;
+	border-style: solid;
+	border-width: 1px;
+	border-color: rgb(21,11,11);
+	overflow: hidden;
+	margin: 40px 0 0 30px;
+	padding: 20px;
+	z-index: 2;
+	color: rgb(0, 0, 0);
+	font-size: 16px;
+}
+header {
+	margin: 0 0 20px 0;
+	font-size: 56px;
+	word-spacing: 2px;
+}
+abbr {cursor: help;
+	font-size: 130%;
+	color: #ff2166;
+	border-bottom: 1px dotted #888;
+}
+p {
+	font-size: 30px;
+	line-height: 50px;
+	margin: 0 0 0 0;
+	width: auto;
+}
