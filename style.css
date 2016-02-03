@@ -1,0 +1,24 @@
+#titulo { color: #00FFFF; }
+strong { color: #FF0000; }
+span.destacado { color: #FFCC00; }
+
+#subtitulo { color: #3300FF; }
+a { color: #FF0000; }
+a em { color: #0099CC; font-style: italic; }
+span.especial { color: #990066; }
+
+table, th, td { border: 1px solid black; }
+tr { border: 4px solid black; }
+caption { color: #0033CC; }
+th { color: #FF0000; }
+th.especial { color: #FFCC00; }
+td { color: #00CC00; }
+td strong { color: #FFCC00; }
+
+#adicional { color: #CC9933; }
+#especial { color: #990066; }
+div a { color: #33CC66; }
+
+
+
+
