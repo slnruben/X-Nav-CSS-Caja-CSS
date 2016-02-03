@@ -1,0 +1,32 @@
+body {
+	background-color: blue
+}
+
+#sandbox {
+	font-family: "goudy-bookletter-1911-1", "goudy-bookletter-1911-2", "Baskerville", "Georgia", serif;
+	border-style: solid;
+	border-width: 1px;
+	border-color: rgb(21,11,11);
+	overflow: hidden;
+	margin: 40px 0 0 30px;
+	padding: 20px;
+	z-index: 2;
+	color: rgb(0, 0, 0);
+	font-size: 16px;
+}
+header {
+	margin: 0 0 20px 0;
+	font-size: 56px;
+	word-spacing: 2px;
+}
+abbr {cursor: help;
+	font-size: 130%;
+	color: #ff2166;
+	border-bottom: 1px dotted #888;
+}
+p {
+	font-size: 30px;
+	line-height: 50px;
+	margin: 0 0 0 0;
+	width: auto;
+}
